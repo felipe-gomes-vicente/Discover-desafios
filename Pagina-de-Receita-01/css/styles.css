@@ -12,10 +12,11 @@ body {
 main {
   background-color: #FFF;
   width: 70%;
-  margin: 40px auto;
+  margin: 2.5rem auto;
   object-position: 50% 65%;  /* tem dois valores centraliza objeto na imagem */
   border-radius: 0.625rem;
-  padding: 0.625rem;
+  padding: 2.5rem 1.25rem;
+  
 }
 
 h1, h2 {
@@ -25,6 +26,8 @@ h1, h2 {
 
 h1 {
   font-size: 1.75rem;
+  line-height: 2.5rem ;
+  
 }
 
 h2 {
