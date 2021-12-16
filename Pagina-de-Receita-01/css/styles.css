@@ -77,7 +77,10 @@ footer p a {
 }
 
 footer p a:hover {
-  color: #DDD;
+  color: #FF4500;
   transition: all 1s;
   cursor: pointer;
+  background-color: #39393A;
+  border-radius: 0.625rem;
+  padding: 0.625rem;
 }
