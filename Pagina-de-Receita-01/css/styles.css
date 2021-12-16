@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: #EAEAEA;
+  /* background-color: #0000FFBD; */
+  background-color: #FF4500;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -20,24 +21,36 @@ main {
 }
 
 h1, h2 {
-  color: #1B1B1B;
+  color: #FF4500;
   text-align: center;
+  text-transform: uppercase;
+  line-height: 2.5rem ;
 }
 
 h1 {
-  font-size: 1.75rem;
-  line-height: 2.5rem ;
-  
+  font-size: 1.75rem; 
 }
 
 h2 {
   font-size: 1.25rem;
 }
 
+img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: 50% 65%;  /* tem dois valores centraliza objeto na imagem */
+  border-radius: 0.625rem;
+}
+
 figcaption {
   color: #8F8F8F;
   text-align: right;
   margin: 0.625rem;
+}
+
+ul, ol {
+  list-style-position: inside;
 }
 
 li, p {
@@ -50,19 +63,16 @@ figcaption, footer p {
   font-size: 0.75rem;
 }
 
+footer {
+  margin: 0.625rem;
+}
+
 footer p {
-  color: #8F8F8F;
+  color: #39393A;
   text-align: center;
+  
 }
-
-ul, ol {
-  list-style-position: inside;
-}
-
-img {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  object-position: 50% 65%;  /* tem dois valores centraliza objeto na imagem */
-  border-radius: 0.625rem;
+footer p a {
+  color: #39393A;
+  text-decoration: none;
 }
