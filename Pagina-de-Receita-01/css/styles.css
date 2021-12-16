@@ -5,7 +5,6 @@
 }
 
 body {
-  /* background-color: #0000FFBD; */
   background-color: #FF4500;
   font-family: 'Roboto', sans-serif;
 }
@@ -68,11 +67,17 @@ footer {
 }
 
 footer p {
-  color: #39393A;
+  color: #FFF;
   text-align: center;
   
 }
 footer p a {
-  color: #39393A;
+  color: #FFF;
   text-decoration: none;
+}
+
+footer p a:hover {
+  color: #DDD;
+  transition: all 1s;
+  cursor: pointer;
 }
