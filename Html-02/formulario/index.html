@@ -8,6 +8,39 @@
   <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
-  
+    <form action="">
+      <fieldset>
+        <legend> Entre em Contato</legend>
+
+        <div>
+          <span>Assunto: </span>
+          <select name="select">
+            <option value="suporte">Suporte</option>
+            <option value="sugestao" selected>Sugestão</option>
+            <option value="reclamacao">Reclamação</option>
+          </select>
+        </div>
+        
+        <div>
+          <label for="nome">Nome Completo: </label> <br />
+          <input type="text" name="nome"  placeholder=" Nome Completo">  
+        </div>
+        
+        <div>
+          <label for="email">E-mail: </label> <br />
+          <input type="email" name="email" placeholder=" email@seudominio.com">
+        </div>
+
+        <div>
+          <label for="mensagem">Mensagem: </label> <br />
+          <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+        </div>
+
+        <div>
+          <input type="checkbox"> Aceito receber novidades por e-mail <br />
+          <button>Enviar</button> 
+        </div>
+      </fieldset>
+    </form>
 </body>
 </html>

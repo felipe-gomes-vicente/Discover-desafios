@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+  margin: 10px;
+}
+
+div {
+  padding: 10px;
+}
+
+label {
+  font-weight: 600;
+}
+
+button {
+  margin-top: 20px;
+  padding: 0 10px;
+}
