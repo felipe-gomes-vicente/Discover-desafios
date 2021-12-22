@@ -1,21 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 96%;
 }
 
 :root {
   --body-bg-color: #121214;
-  --text-color: #E1E1E6;
-  --title-color: #04D361;
-  --form-color: #A8A8A8;
-  --bg-button-color: #8257E5;
+  --text-color: #e1e1e6;
+  --title-color: #04d361;
+  --form-color: #a8a8a8;
+  --bg-button-color: #8257e5;
 }
 
 body {
-  margin: 20px;
-  font-family: Spartan, Work Sans, sans-serif ;
+  display: flex;
+  font-family: "Spartan", "Work Sans", sans-serif;
   background-color: var(--body-bg-color);
+}
+
+.container {
+  margin: 2rem;
+  width: 46vw;
+}
+
+header img {
+  width: 50%;
+  margin: 2rem 0;
+  border: 2px solid red;
+}
+
+
+
+.read-news {
+  flex: 1;
+  width: 46vw;
+  height: 100vh;
+  background-image: url(../assets/read_news.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;  /* centralizar sem mostrar o rosto */
+  
 }
