@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 96%;
+  font-size: 98%;
 }
 
 :root {
@@ -22,8 +22,9 @@ body {
 }
 
 .container {
-  margin: 2rem;
-  width: 46vw;
+  margin-top: 1rem;
+  padding: 0 2rem;
+  width: 47vw;
 }
 
 header img {
@@ -31,41 +32,87 @@ header img {
   margin: 2rem 0;
 }
 
+main {
+  margin-top: 3rem;
+}
 main h1 {
-  margin: 1rem 0;
+  font-size: 1.2rem;
   color: var(--title-color);
-  font-size: 1.5rem;
 }
 
 main h2 {
-  margin: 1rem 0;
+  margin-top: 1rem;
+  font-size: .78rem;
   color: var(--text-color);
-  font-size: .97rem;
 }
 
 main p {
-  margin: 1rem 0;
+  margin-top: 1rem;
+  font-size: 0.8rem;
   color: var(--text-color);
 }
 
-.page-input {
+.page-form {
+  margin-top: 2rem;
+  font-weight: bold;
+  position: absolute;
+  width: 53%;
   display: flex;
   flex-direction: column;
-  font-weight: bold;
-  margin: 60px 0;
+  
 }
 
-.page-input label {
-  padding: .8rem 0;
+.page-form label {
+  padding: 0.8rem 0;
   color: var(--form-color);
 }
+.page-input {
 
-.page-input input{
-  padding: .5rem;
+  margin-top: 1rem;
+  display: flex;
+  width: 95%;
 }
 
+.page-input input {
+  width: 100%;
+  height: 8vh;
+  padding: .5rem;
+  border: none;
+  border-left: 5px solid var(--title-color);
+  
+}
 .page-input button {
+  border: none;
+}
+
+.page-input button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 10rem;
+  font-size: 1.3rem;
+  width: 47%;
+}
+footer button {
   color: var(--bg-button-color);
+  border: none;
+  height: 40px;
+  width:290px;
+  display: flex;
+  font-weight: bold;
+  background-color: var(--body-bg-color);
+} 
+
+footer img {
+  width: 15%;
+  height: 50%;
+}
+
+footer button:hover {
+  opacity: 0.5;
+  cursor: pointer;
 }
 
 .read-news {
@@ -74,6 +121,5 @@ main p {
   height: 100vh;
   background-image: url(../assets/read_news.jpg);
   background-repeat: no-repeat;
-  background-size: cover;  /* centralizar sem mostrar o rosto */
-  
+  background-size: cover; /* centralizar sem mostrar o rosto */
 }
