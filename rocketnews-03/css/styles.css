@@ -32,7 +32,22 @@ header img {
   border: 2px solid red;
 }
 
+main h1 {
+  margin: 1rem 0;
+  color: var(--title-color);
+  font-size: 1.5rem;
+}
 
+main h2 {
+  margin: 1rem 0;
+  color: var(--text-color);
+  font-size: .97rem;
+}
+
+main p {
+  margin: 1rem 0;
+  color: var(--text-color);
+}
 
 .read-news {
   flex: 1;
