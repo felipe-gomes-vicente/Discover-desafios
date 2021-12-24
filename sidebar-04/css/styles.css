@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --body-bg-color: #DCE4E3;
+  --green: #18C29C;
+  --light-green: #8ED7C6;
+	--light-grey: #DCE4E3;
+  --text-color: #084236;
+}
