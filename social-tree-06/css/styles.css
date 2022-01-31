@@ -89,7 +89,7 @@ header h1 a {
   cursor: pointer;
 }
 
-.social-link:hover {
+.social-link img:hover {
   opacity: .6;
   transition: 0.9s;
 }
