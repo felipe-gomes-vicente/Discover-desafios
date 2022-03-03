@@ -1,7 +1,7 @@
 # Desafio Discover Rocketseat
 
 <h1 align="center">
-    <img alt="Countdown" title="Imagem de contador " src="./assets/print-rocketnews.png" />
+    <img alt="Countdown" title="Imagem de contador " src="./img/print-countdown.gif" />
 </h1>
 
 <br>
@@ -27,6 +27,8 @@ Aplicado meu conhecimento do Discover da Rocketseat conceitos de forma prática 
 - Alinhando os planetas
 
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
+
+ <img alt="Countdown" title="Imagem de contador " src="./img/print-countdown.png" />
 
 ## 🧪 Tecnologias
 
