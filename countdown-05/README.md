@@ -9,7 +9,23 @@
 ### 💻 Projeto Countdown Desafio 05
 O desafio é uma página de lançamento de um site, serviço ou produto, nessa página tem com countdown timer uma contagem regressiva até ser lançado. Construído com as tecnologias HTML, CSS e javascript.
 
-  
+O que foi feito:
+- Elemento h1 em caixa alta manipulado com CSS
+- Interagir com elementos html para manipular countdown via javascript
+- Interagir com botão inscreva-se
+- Cursor do mouse como ponteiro no botão
+- Importação de fonte(tipografia) externa
+- Utilizar variaveis CSS para manipular a paleta de cores do projeto
+- Reset CSS removendo possíveis inconsistências entre navegadores diferentes
+- Arquivos do projeto separado por pasta para organização
+ 
+Aplicado meu conhecimento do Discover da Rocketseat conceitos de forma prática nesse projeto, com os modulos:
+- O guia estelar de HTML
+- O guia estelar de CSS
+- O guia estelar de Javascript
+- Pilotando com a DOM
+- Alinhando os planetas
+
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
 
 ## 🧪 Tecnologias
