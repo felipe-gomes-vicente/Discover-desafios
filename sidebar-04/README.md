@@ -30,9 +30,6 @@ Aplicado meu conhecimento do Discover da Rocketseat conceitos de forma prática 
 
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
 
-  
--[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
-
 ## 🧪 Tecnologias
 
 Aplicação desenvolvida usando as seguintes tecnologias:
