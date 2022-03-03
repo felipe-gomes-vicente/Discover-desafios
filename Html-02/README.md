@@ -11,7 +11,11 @@ Foi possível aplicar conhecimento do curso Discover da Rocketseat de forma prá
 - O guia estelar de HTML
 - Posso ver e ouvir o HTML
 - HTML Semantico
+  
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
+
+
+### Código do Projeto
 
 <h2 align="center">
     <img alt=" código do projeto html" title="Código do conceito de HTML" src=".github/desafio-html-code.gif" />

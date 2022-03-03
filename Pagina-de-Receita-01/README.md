@@ -14,6 +14,7 @@ Foi possível aplicar conhecimento do curso Discover da Rocketseat de forma prá
 - Posso ver e ouvir o HTML
 - HTML Semantico
 - O guia estelar de CSS
+  
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
 
 ## 🧪 Tecnologias
