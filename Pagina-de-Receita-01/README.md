@@ -6,8 +6,15 @@
 
 <br>
 
-### 💻 Pagina de Receita Desafio 01
+### 💻 Pagina de Receita de Arroz Desafio 01
+Desenvolvi uma página web com as tecnologias HTML5 e CSS3. O conteúdo da página é sobre uma receita, que conta com as tags html título, imagem, lista de ingredientes, modo de preparo e estilo da pagina manipulado e formatado com CSS nos elementos da pagina.
 
+Foi possível aplicar conhecimento do curso Discover da Rocketseat de forma prática nesse projeto, com os modulos:
+- O guia estelar de HTML
+- Posso ver e ouvir o HTML
+- HTML Semantico
+- O guia estelar de CSS
+-[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
 
 ## 🧪 Tecnologias
 
