@@ -18,6 +18,14 @@ O que foi feito:
 - Cursor do mouse como ponteiro nos elementos da barra lateral.
 - Importação de fonte(tipografia) externa no CSS
 - Utilizar variaveis CSS para manipular a paleta de cores do projeto
+- Arquivos do projeto separado por pasta para organização.
+
+Aplicado meu conhecimento do Discover da Rocketseat conceitos de forma prática nesse projeto, com os modulos:
+- O guia estelar de HTML
+- O guia estelar de CSS
+- O guia estelar de Javascript
+- Pilotando com a DOM
+- Alinhando os planetas
 
 
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
