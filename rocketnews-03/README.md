@@ -7,7 +7,8 @@
 <br>
 
 ### 💻 Projeto newsletter Rocket News Desafio 03
-Desenvolvi uma página web com as tecnologias HTML5 e CSS3. O conteúdo da página é sobre uma newsletter, que conta com as tags html título, imagem, input e botão, manipulado e formatado com CSS nos elementos da pagina.
+Desenvolvi uma página web com as tecnologias HTML5 e CSS3. O conteúdo da página é sobre uma newsletter, que conta com as tags html título, imagem, paragrafo, formulario, input, botão, rodapé da página, manipulado e formatado com CSS nos elementos da pagina.
+
 O que foi feito:
 - Manipular e posicionar imagem de fundo
 - Manipular e posicionar de título
