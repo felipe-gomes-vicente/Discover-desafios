@@ -7,6 +7,20 @@
 <br>
 
 ### 💻 Projeto Sidebar Desafio 04
+Desenvolvi uma página web com as tecnologias HTML5, CSS3 e JavaScript. O conteúdo da página é sobre uma barra lateral onde o usuário consegue interagir expandindo-a e acessando as opcões do menu possível com manipulação dos elementos com javascript, que conta com as tags html título, imagem, paragrafo, formulario, input, botão, formatado com CSS nos elementos da pagina.
+
+O que foi feito:
+- Interagir com Barra lateral expandindo e retrocedendo com javascript.
+- Interagir com elementos da barra lateral
+- Divisão da barra lateral e conteúdo da página
+- Interagir com elemento input para entrada de Pesquisa
+- Botão de saida da conta logada
+- Cursor do mouse como ponteiro nos elementos da barra lateral.
+- Importação de fonte(tipografia) externa no CSS
+- Utilizar variaveis CSS para manipular a paleta de cores do projeto
+
+
+-[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
 
   
 -[Discover - Rocketseat](https://app.rocketseat.com.br/discover)
